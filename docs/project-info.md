@@ -1,3 +1,3 @@
-## Repository
+## Collaboration
 
-Managed with Git and GitHub.
+Development follows a branch and pull request workflow.
